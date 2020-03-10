@@ -1,0 +1,3 @@
+Rangkain ini dibuat untuk tujuan memvalidasi software ansys electromagnetic 
+
+(analisis untuk PCB)
