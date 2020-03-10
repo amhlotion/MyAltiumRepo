@@ -1,0 +1,92 @@
+[Thu Feb 20 16:39:37 2020] C:\Program Files\AnsysEM\AnsysEM17.2\Win64\siwave_ng.exe:message Loading project...:
+[Thu Feb 20 16:39:37 2020] C:\Program Files\AnsysEM\AnsysEM17.2\Win64\siwave_ng.exe:message Initializing layout database...:
+[Thu Feb 20 16:39:37 2020] C:\Program Files\AnsysEM\AnsysEM17.2\Win64\siwave_ng.exe:information 0050 Simulation "DC IR Sim 1" started on host QIMTRONICS2-PC at Thu Feb 20 16:39:37 2020:
+[Thu Feb 20 16:39:37 2020] C:\Program Files\AnsysEM\AnsysEM17.2\Win64\siwave_ng.exe:message Generating solver input files...:
+[Thu Feb 20 16:39:37 2020] C:\Program Files\AnsysEM\AnsysEM17.2\Win64\siwave_ng.exe:warning 0117 All geometry on net "DUMMY" will be ignored:
+[Thu Feb 20 16:39:37 2020] C:\Program Files\AnsysEM\AnsysEM17.2\Win64\siwave_ng.exe:information 0050 [Simulation Directory]: "D:/18. PCB EKSPLORASI/Rangkaian Sederhana/Project Outputs for Rangkaian_sederhana/odb/simulasi_/simulasi_v1.siwaveresults/0004_DC_IR_Sim_1/":
+[Thu Feb 20 16:39:37 2020] C:\Program Files\AnsysEM\AnsysEM17.2\Win64\siwave_ng.exe:information 0050 [Simulation Log File]: "D:\18. PCB EKSPLORASI\Rangkaian Sederhana\Project Outputs for Rangkaian_sederhana\odb\simulasi_\simulasi_v1.siwaveresults/0004_DC_IR_Sim_1/0004_DC_IR_Sim_1.simlog":
+[Thu Feb 20 16:39:37 2020] C:\Program Files\AnsysEM\AnsysEM17.2\Win64\siwave_ng.exe:progress  5.000000:
+[Thu Feb 20 16:39:37 2020] C:\Program Files\AnsysEM\AnsysEM17.2\Win64\siwave_ng.exe:message Identifying nets for inclusion in simulation...:
+[Thu Feb 20 16:39:37 2020] C:\Program Files\AnsysEM\AnsysEM17.2\Win64\siwave_ng.exe:information 0051 GND:
+[Thu Feb 20 16:39:37 2020] C:\Program Files\AnsysEM\AnsysEM17.2\Win64\siwave_ng.exe:information 0051 NetC1_2:
+[Thu Feb 20 16:39:37 2020] C:\Program Files\AnsysEM\AnsysEM17.2\Win64\siwave_ng.exe:information 0051 NetC2_2:
+[Thu Feb 20 16:39:37 2020] C:\Program Files\AnsysEM\AnsysEM17.2\Win64\siwave_ng.exe:information 0051 NetR1_2:
+[Thu Feb 20 16:39:37 2020] C:\Program Files\AnsysEM\AnsysEM17.2\Win64\siwave_ng.exe:information 0051 NetR5_2:
+[Thu Feb 20 16:39:37 2020] C:\Program Files\AnsysEM\AnsysEM17.2\Win64\siwave_ng.exe:information 0051 VCC:
+[Thu Feb 20 16:39:37 2020] C:\Program Files\AnsysEM\AnsysEM17.2\Win64\siwave_ng.exe:progress  10.000000:
+[Thu Feb 20 16:39:37 2020] C:\Program Files\AnsysEM\AnsysEM17.2\Win64\siwave_ng.exe:message Performing basic DRC...:
+[Thu Feb 20 16:39:37 2020] C:\Program Files\AnsysEM\AnsysEM17.2\Win64\siwave_ng.exe:message Identifying non-functional pads...:
+[Thu Feb 20 16:39:37 2020] C:\Program Files\AnsysEM\AnsysEM17.2\Win64\siwave_ng.exe:progress  20.000000:
+[Thu Feb 20 16:39:37 2020] C:\Program Files\AnsysEM\AnsysEM17.2\Win64\siwave_ng.exe:progress  25.000000:
+[Thu Feb 20 16:39:37 2020] C:\Program Files\AnsysEM\AnsysEM17.2\Win64\siwave_ng.exe:message Identifying geometry to process...:
+[Thu Feb 20 16:39:37 2020] C:\Program Files\AnsysEM\AnsysEM17.2\Win64\siwave_ng.exe:message Processing planes...:
+[Thu Feb 20 16:39:37 2020] C:\Program Files\AnsysEM\AnsysEM17.2\Win64\siwave_ng.exe:progress  32.500000:
+[Thu Feb 20 16:39:37 2020] C:\Program Files\AnsysEM\AnsysEM17.2\Win64\siwave_ng.exe:progress  40.000000:
+[Thu Feb 20 16:39:37 2020] C:\Program Files\AnsysEM\AnsysEM17.2\Win64\siwave_ng.exe:progress  50.000000:
+[Thu Feb 20 16:39:37 2020] C:\Program Files\AnsysEM\AnsysEM17.2\Win64\siwave_ng.exe:progress  60.000000:
+[Thu Feb 20 16:39:37 2020] C:\Program Files\AnsysEM\AnsysEM17.2\Win64\siwave_ng.exe:progress  70.000000:
+[Thu Feb 20 16:39:37 2020] C:\Program Files\AnsysEM\AnsysEM17.2\Win64\siwave_ng.exe:message Processing circuit elements...:
+[Thu Feb 20 16:39:37 2020] C:\Program Files\AnsysEM\AnsysEM17.2\Win64\siwave_ng.exe:warning 0104 R7: negative node at (24.511005,3.871003) on layer top_layer is not attached to any net included in this simulation:
+[Thu Feb 20 16:39:37 2020] C:\Program Files\AnsysEM\AnsysEM17.2\Win64\siwave_ng.exe:warning 0104 R8: positive node at (24.511005,5.527002) on layer top_layer is not attached to any net included in this simulation:
+[Thu Feb 20 16:39:37 2020] C:\Program Files\AnsysEM\AnsysEM17.2\Win64\siwave_ng.exe:progress  80.000000:
+[Thu Feb 20 16:39:37 2020] C:\Program Files\AnsysEM\AnsysEM17.2\Win64\siwave_ng.exe:message Writing solver input files...:
+[Thu Feb 20 16:39:37 2020] C:\Program Files\AnsysEM\AnsysEM17.2\Win64\siwave_ng.exe:information 0050 Negative terminal (attached to net GND) of NetC1_2_header_J1_DCFlowVRM has been set to 0V (ideal ground):
+[Thu Feb 20 16:39:37 2020] C:\Program Files\AnsysEM\AnsysEM17.2\Win64\siwave_ng.exe:progress  95.000000:
+[Thu Feb 20 16:39:37 2020] C:\Program Files\AnsysEM\AnsysEM17.2\Win64\siwave_ng.exe:progress  100.000000:
+[Thu Feb 20 16:39:37 2020] C:\Program Files\AnsysEM\AnsysEM17.2\Win64\siwave_ng.exe:message Solving for DC voltage/current distribution... :
+C:\Program Files\AnsysEM\AnsysEM17.2\Win64\sidirect_solver.exe:message Initializing the problem 
+C:\Program Files\AnsysEM\AnsysEM17.2\Win64\sidirect_solver.exe:progress 1 
+C:\Program Files\AnsysEM\AnsysEM17.2\Win64\sidirect_solver.exe:message Setting up solution materials 
+C:\Program Files\AnsysEM\AnsysEM17.2\Win64\sidirect_solver.exe:progress 2 
+C:\Program Files\AnsysEM\AnsysEM17.2\Win64\sidirect_solver.exe:message Reading geometry file 
+C:\Program Files\AnsysEM\AnsysEM17.2\Win64\sidirect_solver.exe:progress 3 
+C:\Program Files\AnsysEM\AnsysEM17.2\Win64\sidirect_solver.exe:message Reading layer stack up 
+C:\Program Files\AnsysEM\AnsysEM17.2\Win64\sidirect_solver.exe:progress 4 
+C:\Program Files\AnsysEM\AnsysEM17.2\Win64\sidirect_solver.exe:message Setting up circuit graph 
+C:\Program Files\AnsysEM\AnsysEM17.2\Win64\sidirect_solver.exe:progress 5 
+C:\Program Files\AnsysEM\AnsysEM17.2\Win64\sidirect_solver.exe:message Creating 2 layer meshes 
+C:\Program Files\AnsysEM\AnsysEM17.2\Win64\sidirect_solver.exe:progress 10 
+C:\Program Files\AnsysEM\AnsysEM17.2\Win64\sidirect_solver.exe:message   Meshing Layer #1 
+C:\Program Files\AnsysEM\AnsysEM17.2\Win64\sidirect_solver.exe:progress 20 
+C:\Program Files\AnsysEM\AnsysEM17.2\Win64\sidirect_solver.exe:message   Meshing Layer #2 
+C:\Program Files\AnsysEM\AnsysEM17.2\Win64\sidirect_solver.exe:progress 30 
+C:\Program Files\AnsysEM\AnsysEM17.2\Win64\sidirect_solver.exe:message Combining 2 layer meshes 
+C:\Program Files\AnsysEM\AnsysEM17.2\Win64\sidirect_solver.exe:progress 40 
+C:\Program Files\AnsysEM\AnsysEM17.2\Win64\sidirect_solver.exe:message   Appending Layer #2 
+C:\Program Files\AnsysEM\AnsysEM17.2\Win64\sidirect_solver.exe:progress 43 
+C:\Program Files\AnsysEM\AnsysEM17.2\Win64\sidirect_solver.exe:message   Appending Layer #1 
+C:\Program Files\AnsysEM\AnsysEM17.2\Win64\sidirect_solver.exe:progress 46 
+C:\Program Files\AnsysEM\AnsysEM17.2\Win64\sidirect_solver.exe:message Meshing vias and bondwires 
+C:\Program Files\AnsysEM\AnsysEM17.2\Win64\sidirect_solver.exe:progress 50 
+C:\Program Files\AnsysEM\AnsysEM17.2\Win64\sidirect_solver.exe:message Adding mesh to the circuit graph 
+C:\Program Files\AnsysEM\AnsysEM17.2\Win64\sidirect_solver.exe:progress 55 
+C:\Program Files\AnsysEM\AnsysEM17.2\Win64\sidirect_solver.exe:message Initializing unknown and source information 
+C:\Program Files\AnsysEM\AnsysEM17.2\Win64\sidirect_solver.exe:progress 60 
+C:\Program Files\AnsysEM\AnsysEM17.2\Win64\sidirect_solver.exe:message Iteration 1: Refining mesh 
+C:\Program Files\AnsysEM\AnsysEM17.2\Win64\sidirect_solver.exe:progress 61 
+C:\Program Files\AnsysEM\AnsysEM17.2\Win64\sidirect_solver.exe:message Iteration 1: Filling system matrix 
+C:\Program Files\AnsysEM\AnsysEM17.2\Win64\sidirect_solver.exe:progress 62 
+C:\Program Files\AnsysEM\AnsysEM17.2\Win64\sidirect_solver.exe:message Iteration 1: Solving system matrix 
+C:\Program Files\AnsysEM\AnsysEM17.2\Win64\sidirect_solver.exe:progress 63 
+C:\Program Files\AnsysEM\AnsysEM17.2\Win64\sidirect_solver.exe:message Iteration 1: Computing energy error 
+C:\Program Files\AnsysEM\AnsysEM17.2\Win64\sidirect_solver.exe:progress 65 
+C:\Program Files\AnsysEM\AnsysEM17.2\Win64\sidirect_solver.exe:message Iteration 2: Refining mesh 
+C:\Program Files\AnsysEM\AnsysEM17.2\Win64\sidirect_solver.exe:progress 67 
+C:\Program Files\AnsysEM\AnsysEM17.2\Win64\sidirect_solver.exe:message Iteration 2: Filling system matrix 
+C:\Program Files\AnsysEM\AnsysEM17.2\Win64\sidirect_solver.exe:progress 69 
+C:\Program Files\AnsysEM\AnsysEM17.2\Win64\sidirect_solver.exe:message Iteration 2: Solving system matrix 
+C:\Program Files\AnsysEM\AnsysEM17.2\Win64\sidirect_solver.exe:progress 70 
+C:\Program Files\AnsysEM\AnsysEM17.2\Win64\sidirect_solver.exe:message Iteration 2: Computing energy error 
+C:\Program Files\AnsysEM\AnsysEM17.2\Win64\sidirect_solver.exe:progress 71 
+C:\Program Files\AnsysEM\AnsysEM17.2\Win64\sidirect_solver.exe:message Solution converged after 2 passes 
+C:\Program Files\AnsysEM\AnsysEM17.2\Win64\sidirect_solver.exe:message Iteration 2: Writing solution information - do not exit simulation! 
+C:\Program Files\AnsysEM\AnsysEM17.2\Win64\sidirect_solver.exe:progress 72 
+C:\Program Files\AnsysEM\AnsysEM17.2\Win64\sidirect_solver.exe:message Writing Thermal Data 
+C:\Program Files\AnsysEM\AnsysEM17.2\Win64\sidirect_solver.exe:message   Writing Thermal Layer bottom_layer 
+C:\Program Files\AnsysEM\AnsysEM17.2\Win64\sidirect_solver.exe:message   Writing Thermal Layer top_layer 
+C:\Program Files\AnsysEM\AnsysEM17.2\Win64\sidirect_solver.exe:message Deleting problem 
+C:\Program Files\AnsysEM\AnsysEM17.2\Win64\sidirect_solver.exe:progress 99 
+C:\Program Files\AnsysEM\AnsysEM17.2\Win64\sidirect_solver.exe:message Finished 
+C:\Program Files\AnsysEM\AnsysEM17.2\Win64\sidirect_solver.exe:progress 100 
+[Thu Feb 20 16:39:38 2020] C:\Program Files\AnsysEM\AnsysEM17.2\Win64\siwave_ng.exe:information 0050 DC solver completed with return code 0:
+[Thu Feb 20 16:39:38 2020] C:\Program Files\AnsysEM\AnsysEM17.2\Win64\siwave_ng.exe:information 0050 Simulation "DC IR Sim 1" completed on host QIMTRONICS2-PC at Thu Feb 20 16:39:38 2020:

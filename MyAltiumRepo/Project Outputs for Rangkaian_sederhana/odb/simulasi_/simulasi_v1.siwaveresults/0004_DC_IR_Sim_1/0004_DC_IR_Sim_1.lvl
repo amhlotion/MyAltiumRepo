@@ -1,0 +1,16 @@
+B_PARAMS
+
+ Triangles 1962
+ Tetrahedra 0
+
+ ResMat 2
+  GND:NetC2_2_NCP1117ST33T3G_IC1_DCFlowVRM_neg    1.296437134696e-003    5.910077174648e-004
+  GND:NetC2_2_NCP1117ST33T3G_IC1_DCFlowVRM_pos    5.910077174647e-004    1.019921942134e+004
+ EndResMat
+
+ Sinks 2
+  GND:NetC1_2_header_J1_DCFlowVRM_neg
+  NetC1_2:NetC1_2_header_J1_DCFlowVRM_pos
+ EndSinks
+
+E_PARAMS

@@ -1,0 +1,34 @@
+   Module        Real Time   CPU Time     Memory          Size
+_______________________________________________________________________
+
+           siwave_ng 2016.2.0 (Built: Jul 15 2016 18:18:18)
+     Commenced on host QIMTRONICS2-PC at Thu Feb 20 17:10:20 2020
+
+------------------------------------------------------------------------
+|               |   Real   |   Cpu    |  Memory  |                     |
+|    Command    |   Time   |   Time   |          |                     |
+| solve_setup   | 00:00:00 | 00:00:00 |   46184K |        1 project    |
+------------------------------------------------------------------------
+          Finished on QIMTRONICS2-PC at 02/20/2020 17:10:20
+
+
+    SIwave DC IR solver 2016.2.0 Jul 15 2016 at 18:10:12 beginning
+    C:\Program Files\AnsysEM\AnsysEM17.2\Win64\sidirect_solver.exe
+                on QIMTRONICS2-PC at 02/20/2020 17:10:20
+------------------------------------------------------------------------
+|               |   Real   |   Cpu    |  Memory  |                     |
+|    Command    |   Time   |   Time   |          | Number of Elements  |
+| InitMesh      | 00:00:00 | 00:00:00 |   21136K |     1214 triangles  |
+| AdaptMesh_1   | 00:00:00 | 00:00:00 |   21136K |     1868 triangles  |
+| Solve(1p)_1   | 00:00:00 | 00:00:00 |   22092K |     1537 unknowns   |
+| PostProc_2    | 00:00:00 | 00:00:00 |   22092K |     1868 triangles  |
+| AdaptMesh_2   | 00:00:00 | 00:00:00 |   22092K |     2358 triangles  |
+| Solve(1p)_2   | 00:00:00 | 00:00:00 |   22396K |     1863 unknowns   |
+| PostProc_3    | 00:00:00 | 00:00:00 |   22396K |     2358 triangles  |
+| AdaptMesh_3   | 00:00:00 | 00:00:00 |   22396K |     2973 triangles  |
+| Solve(1p)_3   | 00:00:00 | 00:00:00 |   23176K |     2237 unknowns   |
+| PostProc_3    | 00:00:00 | 00:00:00 |   23336K |       11 elements   |
+------------------------------------------------------------------------
+           Finished on QIMTRONICS2-PC at 02/20/2020 17:10:20
+
+_______________________________________________________________________

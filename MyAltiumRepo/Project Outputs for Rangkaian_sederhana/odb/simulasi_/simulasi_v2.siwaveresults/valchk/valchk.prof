@@ -1,0 +1,14 @@
+
+
+
+***********************************************************************
+
+        Validation Check 2016.2.0 (Built: Jul 15 2016 18:18:19)
+     Commenced on host QIMTRONICS2-PC at Thu Feb 20 17:10:06 2020
+
+------------------------------------------------------------------------
+|               |   Real   |   Cpu    |  Memory  |                     |
+|    Command    |   Time   |   Time   |          |                     |
+| BW Collision  | 00:00:00 | 00:00:00 |   32828K |        1 project    |
+| Vias Check    | 00:00:00 | 00:00:00 |   32828K |        1 project    |
+| disjoint      | 00:00:00 | 00:00:00 |   32828K |        1 project    |

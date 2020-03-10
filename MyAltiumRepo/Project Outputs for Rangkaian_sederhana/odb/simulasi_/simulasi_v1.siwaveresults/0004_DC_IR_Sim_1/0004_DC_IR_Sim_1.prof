@@ -1,0 +1,26 @@
+           siwave_ng 2016.2.0 (Built: Jul 15 2016 18:18:18)
+     Commenced on host QIMTRONICS2-PC at Thu Feb 20 16:39:37 2020
+
+------------------------------------------------------------------------
+|               |   Real   |   Cpu    |  Memory  |                     |
+|    Command    |   Time   |   Time   |          |                     |
+| solve_setup   | 00:00:00 | 00:00:00 |   46204K |        1 project    |
+------------------------------------------------------------------------
+          Finished on QIMTRONICS2-PC at 02/20/2020 16:39:37
+
+
+    SIwave DC IR solver 2016.2.0 Jul 15 2016 at 18:10:12 beginning
+    C:\Program Files\AnsysEM\AnsysEM17.2\Win64\sidirect_solver.exe
+                on QIMTRONICS2-PC at 02/20/2020 16:39:37
+------------------------------------------------------------------------
+|               |   Real   |   Cpu    |  Memory  |                     |
+|    Command    |   Time   |   Time   |          | Number of Elements  |
+| InitMesh      | 00:00:00 | 00:00:00 |   21080K |     1214 triangles  |
+| AdaptMesh_1   | 00:00:00 | 00:00:00 |   21080K |     1868 triangles  |
+| Solve(1p)_1   | 00:00:00 | 00:00:00 |   22040K |     1537 unknowns   |
+| PostProc_2    | 00:00:00 | 00:00:00 |   22040K |     1868 triangles  |
+| AdaptMesh_2   | 00:00:00 | 00:00:00 |   22040K |     1962 triangles  |
+| Solve(1p)_2   | 00:00:00 | 00:00:00 |   22212K |     1603 unknowns   |
+| PostProc_2    | 00:00:00 | 00:00:00 |   31800K |       11 elements   |
+------------------------------------------------------------------------
+           Finished on QIMTRONICS2-PC at 02/20/2020 16:39:38
